@@ -1,4 +1,4 @@
-name: Executar Java
+name: Flores Executar Java
 on: [push] # Roda toda vez que você enviar código
 
 jobs:
